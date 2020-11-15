@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="438c3575-dce7-47e5-9758-c181827816e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/._mountain-king-html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/mountain-king-html/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/mountain-king-html/assets/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/mountain-king-html/assets/css/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/mountain-king-html/bootstrap/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/__MACOSX/mountain-king-html/bootstrap/css/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +47,7 @@
       <workItem from="1605349350342" duration="16037000" />
       <workItem from="1605439721146" duration="2509000" />
       <workItem from="1605444907059" duration="3116000" />
-      <workItem from="1605453881005" duration="3929000" />
+      <workItem from="1605453881005" duration="5366000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1605440510308</created>
@@ -99,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605466757721</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="delete">
+      <created>1605469447451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605469447451</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,17 +108,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new file" />
     <MESSAGE value="delete read" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete read" />
+    <MESSAGE value="delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="716" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605469082717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605469082717" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605466756619">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605469446194">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605466756619" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605469446194" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605457826392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -128,9 +128,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605457862381" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605466787095">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605469459592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605466787095" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605469459592" />
   </component>
 </project>
