@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="438c3575-dce7-47e5-9758-c181827816e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="438c3575-dce7-47e5-9758-c181827816e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +15,15 @@
     <setting file="file://$PROJECT_DIR$/mountain-king-html/bootstrap/css/theme.css" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1kCb6Aj1xZE2Z9l7Qy1568yKyyE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,7 +44,7 @@
       <workItem from="1605281405992" duration="1115000" />
       <workItem from="1605349350342" duration="16037000" />
       <workItem from="1605439721146" duration="2509000" />
-      <workItem from="1605444907059" duration="1232000" />
+      <workItem from="1605444907059" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1605440510308</created>
@@ -52,21 +53,37 @@
       <option name="project" value="LOCAL" />
       <updated>1605440510308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new file">
+      <created>1605451768437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451768437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete read">
+      <created>1605451817148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451817148</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file" />
+    <MESSAGE value="delete read" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete read" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605440509015">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605451816418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605440509015" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605451816418" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605428771087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
