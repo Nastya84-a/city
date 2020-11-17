@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438c3575-dce7-47e5-9758-c181827816e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/Aliyah_City_Rishon-Letzion_Square.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/Aliyah_City_Rishon-Letzion_Square1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/bashnya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/dino.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/nite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain-king-html/images/инсталляция-динозавров.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mountain-king-html" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/images/1990.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/images/1990.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/images/Attraktsiony-v-parke.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/images/Attraktsiony-v-parke.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/images/HaZahav_Mall.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/images/HaZahav_Mall.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/images/Rishon-LeZion-beach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/images/Rishon-LeZion-beach.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/images/vin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/images/vin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +49,7 @@
       <workItem from="1605444907059" duration="3116000" />
       <workItem from="1605453881005" duration="6766000" />
       <workItem from="1605518107183" duration="4000" />
-      <workItem from="1605594271886" duration="4556000" />
+      <workItem from="1605594271886" duration="4858000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1605440510308</created>
@@ -121,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605470782615</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="gallery">
+      <created>1605639051820</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605639051820</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,17 +125,18 @@
     <MESSAGE value="new file" />
     <MESSAGE value="delete read" />
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="gallery" />
   </component>
   <component name="WindowStateProjectService">
     <state x="716" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605469082717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605469082717" />
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605470781982">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605639049711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605470781982" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605639049711" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605499077287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -151,9 +145,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605457862381" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605470791373">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605639061815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605470791373" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605639061815" />
   </component>
 </project>
