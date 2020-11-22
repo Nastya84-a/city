@@ -2,9 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438c3575-dce7-47e5-9758-c181827816e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mountain-king-html.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/masonry.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/odometer-theme-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/pushy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/holder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/holder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/ie-emulation-modes-warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/ie10-viewport-bug-workaround.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/masonry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/odometer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/pushy.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Aliyah_City_Rishon-Letzion_Square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Aliyah_City_Rishon-Letzion_Square1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Attraktsiony-v-parke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/HaZahav_Mall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PikiWiki_Israel.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Rishon-LeZion-beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bashnya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/depositphotos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-sample-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/serf.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/superland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vin_582827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/your_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/инсталляция-динозавров.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mountain-king-html" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mountain-king-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mountain-king-html.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +71,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mountain-king-html" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/mountain-king-html/bootstrap/css/theme.css" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1kCb6Aj1xZE2Z9l7Qy1568yKyyE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -30,7 +86,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MYFRONTEND" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -55,6 +111,7 @@
       <workItem from="1605695621272" duration="1876000" />
       <workItem from="1605702078867" duration="16045000" />
       <workItem from="1605978528594" duration="593000" />
+      <workItem from="1606038674791" duration="701000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1605440510308</created>
