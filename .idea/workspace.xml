@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="438c3575-dce7-47e5-9758-c181827816e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mountain-king-html" beforeDir="false" afterPath="$PROJECT_DIR$/mountain-king-html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MYFRONTEND" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -49,7 +50,9 @@
       <workItem from="1605444907059" duration="3116000" />
       <workItem from="1605453881005" duration="6766000" />
       <workItem from="1605518107183" duration="4000" />
-      <workItem from="1605594271886" duration="4858000" />
+      <workItem from="1605594271886" duration="5259000" />
+      <workItem from="1605695621272" duration="1876000" />
+      <workItem from="1605702078867" duration="16045000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1605440510308</created>
@@ -137,10 +140,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605639049711" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605499077287">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605710628586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605499077287" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605710628586" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1605457862381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
